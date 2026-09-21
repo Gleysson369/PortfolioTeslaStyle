@@ -13,11 +13,11 @@ const projects = [
     github: "https://github.com/Gleysson369/santri-workout",
   },
   {
-    title: "Convite Online",
-    description: "Plataforma de convites digitais interativos com sistema de autenticação de usuários e gerenciamento de lista de presença em tempo real.",
+    title: "Meu Gestor Financeiro",
+    description: "Esta é a versão WEB avançada do ecossistema Meu Gestor Financeiro. Desenvolvida para oferecer uma experiência de desktop imersiva, esta plataforma complementa o aplicativo móvel com funcionalidades expandidas de análise, gestão compartilhada e exportação de dados.",
     stack: ["HTML", "CSS", "JavaScript", "Firebase"],
-    link: "https://convite-swart.vercel.app/",
-    github: "https://github.com/Gleysson369",
+    link: "https://meu-gestor-financeiro-web.vercel.app/login",
+    github: "https://github.com/Gleysson369/Meu-Gestor-Financeiro-WEB",
   },
   {
     title: "Meu Gestor Financeiro WEB",
