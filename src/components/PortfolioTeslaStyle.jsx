@@ -13,13 +13,6 @@ const projects = [
     github: "https://github.com/Gleysson369/santri-workout",
   },
   {
-    title: "Meu Gestor Financeiro",
-    description: "Esta é a versão WEB avançada do ecossistema Meu Gestor Financeiro. Desenvolvida para oferecer uma experiência de desktop imersiva, esta plataforma complementa o aplicativo móvel com funcionalidades expandidas de análise, gestão compartilhada e exportação de dados.",
-    stack: ["HTML", "CSS", "JavaScript", "Firebase"],
-    link: "https://meu-gestor-financeiro-web.vercel.app/login",
-    github: "https://github.com/Gleysson369/Meu-Gestor-Financeiro-WEB",
-  },
-  {
     title: "Meu Gestor Financeiro WEB",
     description: "Versão WEB avançada do ecossistema Meu Gestor Financeiro, com dashboards interativos, exportação de fluxo de caixa e gestão compartilhada para casais via Firebase.",
     stack: ["React 18", "Vite", "Tailwind CSS", "Firebase", "Chart.js"],
