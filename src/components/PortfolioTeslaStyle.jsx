@@ -12,6 +12,13 @@ const projects = [
     link: "https://santri-workout.vercel.app",
     github: "https://github.com/Gleysson369/santri-workout",
   },
+    {
+    title: "RED-G Landpage",
+    description: "Landing Page Institucional | RED-G Sistemas.",
+    stack: ["Next.js 16","React 19", "TypeScript", "Vite", "Tailwind CSS 4", "Lucide React", "CSS responsivo", "Vercel"],
+    link: "https://red-g-sistemas.vercel.app/",
+    github: "https://github.com/Gleysson369/red-g-sistemas",
+  },
   {
     title: "Meu Gestor Financeiro WEB",
     description: "Versão WEB avançada do ecossistema Meu Gestor Financeiro, com dashboards interativos, exportação de fluxo de caixa e gestão compartilhada para casais via Firebase.",
